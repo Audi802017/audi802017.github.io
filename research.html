@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Research</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f9f9;
+}
+
+/* Navigation bar */
+.navbar {
+  display: flex;
+  background-color: #333;
+}
+
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Main layout */
+.row {
+  display: flex;
+  min-height: 100vh;
+}
+
+.side, .rightside {
+  flex: 25%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.main {
+  flex: 50%;
+  background-color: white;
+  padding: 20px;
+  padding-left: 3%;
+}
+
+.main h3 {
+  font-size: 18px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.main h3:first-child {
+  margin-top: 0;
+}
+
+.main h4 {
+  font-size: 14px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.main a {
+  color: black;
+}
+
+.main a:hover {
+  background-color: #ffffcc;
+}
+
+/* Publication item */
+.publication {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.publication:last-child {
+  border-bottom: none;
+}
+
+.publication h4 {
+  margin: 0 0 5px 0;
+}
+
+.publication-meta {
+  font-size: 13px;
+  color: #666;
+  margin: 5px 0;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
+.publication-buttons {
+  margin-top: 8px;
+}
+
+.button {
+  background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 6px 10px;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+  margin-right: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:hover {
+  background-color: #d0d0d0;
+}
+
+.button a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Sidebar */
+.side h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.side p {
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Social icons */
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+/* Footer */
+.footer {
+  padding: 60px;
+  text-align: center;
+  background: #f1f1f1;
+  font-size: 12px;
+  color: #666;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .row {
+    flex-direction: column;
+  }
+  .side, .main, .rightside {
+    flex: 100%;
+  }
+  .navbar {
+    flex-direction: column;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a href="index.html"> <b>Home</b> </a>
+  <a href="research.html"> <b>Research</b></a>
+  <a href="cv.html"> <b>CV</b> </a>
+</div>
+
+<!-- The main content layout -->
+<div class="row">
+  <!-- Left Sidebar -->
+  <div class="side">
+    <h4>Contact details</h4>
+    <p>
+      KU Leuven <br>
+      Naamsestraat 69
+3000 Leuven
+Belgium
+<br><br>
+      E-mail: contact@example.com <br>
+    </p>
+    <br><br>
+        <a href="https://erc.europa.eu/homepage" target="_blank"><img src="pics/ERC_logo.png" alt="ERC" height="40"></a> <br><br>
+    <a href="https://feb.kuleuven.be/research/economics" target="_blank"><img src="pics/KULeuven.png" alt="KU Leuven" height="40"></a> <br><br>
+    <a href="https://www.sciencespo.fr/department-economics/en.html" target="_blank"><img src="pics/scpoecon_logo.jpg" alt="Sciences Po" height="40"></a> <br><br>
+    <a href="https://cepr.org/" target="_blank"><img src="pics/CEPRLOGO.png" alt="CEPR" height="40"></a> <br><br>
+
+        <a href="https://www.linkedin.com/in/marleen-marra-0290a916/" class="fa fa-linkedin" target="_blank"></a>    <a href="https://scholar.google.co.uk/citations?user=jzrJz3IAAAAJ&hl=en" class="fa fa-google" target="_blank"></a>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main">
+    <h3>Publications</h3>
+<h3>Working Papers</h3>
+<div class="publication">
+<h4><a href='#' target='_blank'>Airport Slot Allocation and Capacity Management</a></h4>
+<div class="publication-meta">
+Together with Your Name, Future PhD Student<br>
+</div>
+<div class='publication-buttons'>
+
+</div>
+</div>
+<div class="publication">
+<h4><a href='#' target='_blank'>Airline Network Competition and Airport Congestion</a></h4>
+<div class="publication-meta">
+Together with Your Name<br>
+</div>
+<div class='publication-buttons'>
+
+</div>
+</div>
+
+  </div>
+
+  <!-- Right Sidebar -->
+  <div class="rightside">
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p>Updated June 17, 2026</p>
+</div>
+
+</body>
+</html>
