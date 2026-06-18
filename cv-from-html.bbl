@@ -1,0 +1,66 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Marra(2021)]{marra2021identification}
+Marleen Marra.
+\newblock Identification in ascending auctions under limited information, with
+  an application to absentee bidding.
+\newblock Technical report, SSRN Working Paper, 2021.
+
+\bibitem[Marra(2024)]{marra2024market}
+Marleen Marra.
+\newblock A market for airport slots.
+\newblock Technical report, CEPR Discussion Paper DP19468, 2024.
+
+\bibitem[Marra(2025)]{marra2025estimating}
+Marleen Marra.
+\newblock Estimating an auction platform game with two-sided entry.
+\newblock \emph{Journal of Political Economy}, 133\penalty0 (6):\penalty0
+  1932--1974, 2025.
+\newblock \doi{10.1086/731548}.
+
+\bibitem[Marra and Oswald(2024)]{marra2024ownership}
+Marleen Marra and Florian Oswald.
+\newblock Ownership frictions in a procurement market: Evidence from {L}ondon
+  buses.
+\newblock \emph{International Journal of Industrial Organization}, 94:\penalty0
+  103051, 2024.
+\newblock \doi{10.1016/j.ijindorg.2024.103051}.
+
+\bibitem[Marra and Oswald(2025)]{marra2024geography}
+Marleen Marra and Florian Oswald.
+\newblock The geography of market power: Firm location, spatial rents, and
+  their social costs.
+\newblock Technical report, CEPR Discussion Paper DP19333, 2025.
+
+\bibitem[Marra et~al.(2011)Marra, Miola, and Ciuffo]{marra2011designing}
+Marleen Marra, Apollonia Miola, and Biagio Ciuffo.
+\newblock Designing a climate change policy for the international maritime
+  transport sector.
+\newblock \emph{Energy Policy}, 39\penalty0 (10):\penalty0 5986--6001, 2011.
+\newblock \doi{10.1016/j.enpol.2011.06.064}.
+
+\bibitem[Marra et~al.(2017)Marra, Lanjouw, and Nguyen]{marra2017vietnam}
+Marleen Marra, Peter Lanjouw, and Cuong Nguyen.
+\newblock Vietnam's evolving poverty index map: Patterns and implications for
+  policy.
+\newblock \emph{Social Indicators Research}, 135\penalty0 (2):\penalty0
+  707--726, 2017.
+\newblock \doi{10.1007/s11205-016-1355-9}.
+
+\bibitem[Marra et~al.(2018)Marra, Lanjouw, and Nguyen]{marra2018urban}
+Marleen Marra, Peter Lanjouw, and Phuong Nguyen.
+\newblock Urban poverty across the spectrum of {V}ietnam's towns and cities.
+\newblock \emph{World Development}, 105:\penalty0 156--172, 2018.
+\newblock \doi{10.1016/j.worlddev.2017.12.010}.
+
+\bibitem[Marra et~al.(2025)Marra, Miller, and Sileo]{marra2024commission}
+Marleen Marra, Nathan Miller, and Gretchen Sileo.
+\newblock The commission paradox: Evidence from prison telecommunications.
+\newblock Technical report, CEPR Discussion Paper DP19420, 2025.
+
+\end{thebibliography}
