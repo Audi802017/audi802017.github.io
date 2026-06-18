@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  18 JUN 2026 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  18 JUN 2026 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,169 +326,109 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 40--44
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 42.
+
+LaTeX Font Info:    Calculating math sizes for size <4> on input line 42.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.79999> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.79999> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.79999> not available
+(Font)              size <5> substituted on input line 42.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2> not available
+(Font)              size <5> substituted on input line 42.
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 98--102
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 47--51
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 103--107
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 52--56
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 108--112
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 57--61
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 113--117
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 62--66
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 118--122
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 69--73
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 123--127
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 74--78
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 128--132
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 81--85
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 133--137
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 86--90
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 138--142
 [] 
  []
 
 
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 91--95
+Underfull \hbox (badness 4242) in paragraph at lines 145--145
+[]|\OT1/cmr/bx/n/10.95 American As-so-ci-a-tion of
+ []
+
+
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 143--147
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]|\OT1/cmr/bx/n/10.95 European Com-mis-sion
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 96--100
+Overfull \hbox (9.77359pt too wide) in paragraph at lines 148--152
 [] 
  []
 
 
 (/Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github.io/cv-from-html.
-bbl [1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 110.
-
-LaTeX Font Info:    Calculating math sizes for size <4> on input line 110.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.79999> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.79999> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.79999> not available
-(Font)              size <5> substituted on input line 110.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2> not available
-(Font)              size <5> substituted on input line 110.
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 137--141
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 142--146
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 147--151
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 152--156
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 157--161
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 162--166
-[] 
- []
-
-[2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}]
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 167--171
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 172--176
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 177--181
-[] 
- []
-
-
-Underfull \hbox (badness 4242) in paragraph at lines 184--184
-[]|\OT1/cmr/bx/n/10.95 American As-so-ci-a-tion of
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 182--186
-[] 
- []
-
-
-Overfull \hbox (9.77359pt too wide) in paragraph at lines 187--191
-[] 
- []
-
-[3]
+bbl [2]) [3]
 (/Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github.io/cv-from-html.
 aux)
  ***********
@@ -506,11 +446,11 @@ Package rerunfilecheck Info: File `cv-from-html.out' has not changed.
 Here is how much of TeX's memory you used:
  9688 strings out of 474116
  149652 string characters out of 5743682
- 1948187 words of memory out of 5000000
+ 1943187 words of memory out of 5000000
  31943 multiletter control sequences out of 15000+600000
  567025 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,378b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,378b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -519,7 +459,7 @@ sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
 Output written on /Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github
-.io/cv-from-html.pdf (3 pages, 108684 bytes).
+.io/cv-from-html.pdf (3 pages, 109724 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
