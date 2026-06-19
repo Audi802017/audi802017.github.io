@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  18 JUN 2026 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.24)  19 JUN 2026 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,8 +367,8 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2> not available
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-No file Marleen_Marra_CV.bbl.
-[2]
+(/Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github.io/Marleen_Marra
+_CV.bbl [2]) [3]
 (/Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github.io/Marleen_Marra
 _CV.aux)
  ***********
@@ -384,10 +384,10 @@ Package rerunfilecheck Info: File `Marleen_Marra_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9640 strings out of 474116
- 148477 string characters out of 5743682
+ 9686 strings out of 474116
+ 149690 string characters out of 5743682
  1943187 words of memory out of 5000000
- 31908 multiletter control sequences out of 15000+600000
+ 31941 multiletter control sequences out of 15000+600000
  567025 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,382b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -399,10 +399,10 @@ sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
 Output written on /Users/112956/Dropbox/Technical/NEDI/deploy/audi802017.github
-.io/Marleen_Marra_CV.pdf (2 pages, 104977 bytes).
+.io/Marleen_Marra_CV.pdf (3 pages, 109198 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,41 +1,41 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: cv-from-html.aux
+The top-level auxiliary file: Marleen_Marra_CV.aux
 The style file: plainnat.bst
 Database file #1: ALL.bib
 You've used 9 entries,
             2773 wiz_defined-function locations,
-            651 strings with 6373 characters,
-and the built_in function-call counts, 3756 in all, are:
-= -- 356
+            651 strings with 6381 characters,
+and the built_in function-call counts, 3763 in all, are:
+= -- 352
 > -- 192
 < -- 5
 + -- 66
 - -- 57
-* -- 301
-:= -- 612
-add.period$ -- 32
+* -- 300
+:= -- 604
+add.period$ -- 31
 call.type$ -- 9
-change.case$ -- 50
+change.case$ -- 49
 chr.to.int$ -- 9
 cite$ -- 18
 duplicate$ -- 164
-empty$ -- 298
+empty$ -- 307
 format.name$ -- 70
-if$ -- 764
+if$ -- 770
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 5
-newline$ -- 58
+newline$ -- 57
 num.names$ -- 36
-pop$ -- 68
+pop$ -- 75
 preamble$ -- 1
 purify$ -- 37
 quote$ -- 0
-skip$ -- 124
+skip$ -- 127
 stack$ -- 0
 substring$ -- 148
-swap$ -- 5
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
@@ -43,4 +43,4 @@ type$ -- 99
 warning$ -- 0
 while$ -- 36
 width$ -- 0
-write$ -- 134
+write$ -- 131
