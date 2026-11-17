@@ -171,6 +171,18 @@ Belgium<br><br>
   <div class="main">
     <h3>Publications</h3>
 <div class="publication">
+<h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622047" target="_blank">Identification in Ascending Auctions Under Limited Information, with an Application to Absentee Bidding</a></h4>
+<div class="pub-meta">
+(forthcoming)<br>
+Journal of the European Economic Association (JEEA)<br>
+</div>
+<div class="pub-buttons">
+<a class="btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622047" target="_blank">SSRN</a>
+<a class="btn" href="https://zenodo.org/records/23319318" target="_blank">Replication Package</a>
+<button class="btn cite-btn" onclick="showCite('identification_auctions_wp', 'Identification in Ascending Auctions Under Limited Information, with an Application to Absentee Bidding')">Cite</button>
+</div>
+</div>
+<div class="publication">
 <h4><a href="https://www.journals.uchicago.edu/doi/10.1086/734722" target="_blank">Estimating an Auction Platform Game with Two-Sided Entry</a></h4>
 <div class="pub-meta">
 <em>Journal of Political Economy</em> (2025)<br>
@@ -260,16 +272,6 @@ Supersedes 'Spatial Rents, Garage Location, and Competition in the London Bus Ma
 <button class="btn cite-btn" onclick="showCite('geography_market_power_wp', 'The Geography of Market Power: Firm Location, Spatial Rents, and Their Social Costs')">Cite</button>
 </div>
 </div>
-<div class="publication">
-<h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622047" target="_blank">Identification in Ascending Auctions Under Limited Information, with an Application to Absentee Bidding</a></h4>
-<div class="pub-meta">
-R&R Journal of the European Economic Association (JEEA)<br>
-</div>
-<div class="pub-buttons">
-<a class="btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622047" target="_blank">SSRN</a>
-<button class="btn cite-btn" onclick="showCite('identification_auctions_wp', 'Identification in Ascending Auctions Under Limited Information, with an Application to Absentee Bidding')">Cite</button>
-</div>
-</div>
 
 <style>
 .cite-btn { background-color: #28a745; color: white; }
@@ -296,6 +298,13 @@ R&R Journal of the European Economic Association (JEEA)<br>
 </div>
 <script>
 const publicationsData = {
+  'identification_auctions_wp': `@article{marra2026identification,
+  title={Identification in ascending auctions under limited information, with an application to absentee bidding},
+  author={Marra, Marleen},
+  year={forthcoming},
+  journal={Journal of the European Economic Association},
+  publisher={Oxford University Press}
+}`,
   'auction_platform_2025': `@article{marra2025estimating,
   title={Estimating an auction platform game with two-sided entry},
   author={Marra, Marleen},
@@ -367,12 +376,6 @@ const publicationsData = {
   year={2025},
   institution={CEPR Discussion Paper DP19333}
 }`,
-  'identification_auctions_wp': `@techreport{marra2021identification,
-  title={Identification in ascending auctions under limited information, with an application to absentee bidding},
-  author={Marra, Marleen},
-  year={2021},
-  institution={SSRN Working Paper}
-}`,
 };
 function showCite(paperId, title) {
   const bibtex = publicationsData[paperId];
@@ -410,6 +413,6 @@ window.onclick = (event) => {
     
   </div>
 </div>
-<div class="footer">Updated September 28, 2026</div>
+<div class="footer">Updated November 17, 2026</div>
 </body>
 </html>

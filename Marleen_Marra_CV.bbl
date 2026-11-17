@@ -5,12 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Marra(2021)]{marra2021identification}
-Marleen Marra.
-\newblock Identification in ascending auctions under limited information, with
-  an application to absentee bidding.
-\newblock Technical report, SSRN Working Paper, 2021.
-
 \bibitem[Marra(2024)]{marra2024market}
 Marleen Marra.
 \newblock A market for airport slots.
@@ -22,6 +16,12 @@ Marleen Marra.
 \newblock \emph{Journal of Political Economy}, 133\penalty0 (6):\penalty0
   1932--1974, 2025.
 \newblock \doi{10.1086/731548}.
+
+\bibitem[Marra(forthcoming)]{marra2026identification}
+Marleen Marra.
+\newblock Identification in ascending auctions under limited information, with
+  an application to absentee bidding.
+\newblock \emph{Journal of the European Economic Association}, forthcoming.
 
 \bibitem[Marra and Oswald(2024)]{marra2024ownership}
 Marleen Marra and Florian Oswald.
